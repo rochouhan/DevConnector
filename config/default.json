@@ -1,5 +1,5 @@
 {
-    "mongoURI": "mongodb+srv://rohit123:rohit123@devconnector-d7f2j.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mySecretToken",
-    "githubToken": "178936270d4767306028c5ed98a10e9ba017b6a4"
+  "mongoURI": "mongodb+srv://rohit123:rohit123@devconnector-d7f2j.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken",
+  "githubToken": "178936270d4767306028c5ed98a10e9ba017b6a4"
 }
